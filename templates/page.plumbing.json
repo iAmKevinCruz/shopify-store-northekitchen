@@ -1,0 +1,93 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "164849839488816fcf": {
+      "type": "featured-collections",
+      "blocks": {
+        "16484983943005f033-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "kitchen-faucets",
+            "focal_point": "top center",
+            "size": "square-large"
+          }
+        },
+        "16484983943005f033-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "kitchen-sinks",
+            "focal_point": "center center",
+            "size": "square-large"
+          }
+        }
+      },
+      "block_order": [
+        "16484983943005f033-0",
+        "16484983943005f033-1"
+      ],
+      "settings": {
+        "title": "Kitchen",
+        "divider": false,
+        "enable_gutter": true
+      }
+    },
+    "16484984075aed9287": {
+      "type": "featured-collections",
+      "blocks": {
+        "1648498407e60a185d-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "bath-faucets",
+            "focal_point": "center center",
+            "size": "square-large"
+          }
+        },
+        "1648498407e60a185d-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "bathroom-sinks",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "1648498407e60a185d-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "bathroom-hardware",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "1648498407e60a185d-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "shower-systems",
+            "focal_point": "center center",
+            "size": "wide"
+          }
+        }
+      },
+      "block_order": [
+        "1648498407e60a185d-0",
+        "1648498407e60a185d-1",
+        "1648498407e60a185d-3",
+        "1648498407e60a185d-2"
+      ],
+      "settings": {
+        "title": "Bath",
+        "divider": true,
+        "enable_gutter": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "164849839488816fcf",
+    "16484984075aed9287"
+  ]
+}

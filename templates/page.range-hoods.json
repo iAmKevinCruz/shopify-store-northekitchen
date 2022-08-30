@@ -1,0 +1,183 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1648922541bb8369c2": {
+      "type": "featured-collections",
+      "blocks": {
+        "16489225412fa84fd3-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "wall-mount",
+            "focal_point": "center center",
+            "size": "wide"
+          }
+        },
+        "16489225412fa84fd3-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "island-mount",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "16489225412fa84fd3-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "under-cabinet",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "16489225412fa84fd3-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "ductless-range-hoods",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "16489225412fa84fd3-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "remote-blower-hoods",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "16489225412fa84fd3-5": {
+          "type": "collection",
+          "settings": {
+            "collection": "crownsound®",
+            "focal_point": "80% 0",
+            "size": "wide"
+          }
+        }
+      },
+      "block_order": [
+        "16489225412fa84fd3-0",
+        "16489225412fa84fd3-1",
+        "16489225412fa84fd3-2",
+        "16489225412fa84fd3-3",
+        "16489225412fa84fd3-4",
+        "16489225412fa84fd3-5"
+      ],
+      "settings": {
+        "title": "Shop by Mount",
+        "divider": false,
+        "enable_gutter": true
+      }
+    },
+    "1648922591effc73fb": {
+      "type": "featured-collections",
+      "blocks": {
+        "1648922591d0fbe2b9-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "stainless-steel-range-hoods",
+            "focal_point": "bottom center",
+            "size": "wide"
+          }
+        },
+        "1648922591d0fbe2b9-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "black-stainless-range-hood",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "1648922591d0fbe2b9-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "autograph-edition-range-hoods",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "1648922591d0fbe2b9-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "durasnow®-finished-range-hoods",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "1648922591d0fbe2b9-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "designer-wooden-range-hoods",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "1648922591d0fbe2b9-5": {
+          "type": "collection",
+          "settings": {
+            "collection": "designer-copper-range-hoods",
+            "focal_point": "center center",
+            "size": "wide"
+          }
+        },
+        "84f4025d-41da-4243-a822-c90d33c87499": {
+          "type": "collection",
+          "settings": {
+            "collection": "glass-range-hoods",
+            "focal_point": "bottom center",
+            "size": "wide"
+          }
+        },
+        "26efbb6b-05cc-48f5-8ea6-e3f76af01f46": {
+          "type": "collection",
+          "settings": {
+            "collection": "outdoor-approved-range-hoods",
+            "focal_point": "bottom center",
+            "size": "wide"
+          }
+        }
+      },
+      "block_order": [
+        "1648922591d0fbe2b9-0",
+        "1648922591d0fbe2b9-1",
+        "1648922591d0fbe2b9-2",
+        "1648922591d0fbe2b9-3",
+        "1648922591d0fbe2b9-4",
+        "1648922591d0fbe2b9-5",
+        "84f4025d-41da-4243-a822-c90d33c87499",
+        "26efbb6b-05cc-48f5-8ea6-e3f76af01f46"
+      ],
+      "settings": {
+        "title": "Shop by Finish",
+        "divider": true,
+        "enable_gutter": true
+      }
+    },
+    "16489233085d579ab4": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/zline-wooden-wall-mount-range-hood-in-walnut-includes-remote-motor-kbrr-rd-range-hoods-zline-kitchen-and-bath-148984.jpg",
+        "image2": "shopify:\/\/shop_images\/24_inch_Induction_Cooktop_Angle.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Shop by Size",
+        "text": "",
+        "button_label": "Click Here",
+        "button_link": "https:\/\/northekitchenandbath.com\/collections\/24-inch-range-hood",
+        "button_style": "secondary",
+        "align_text": "center",
+        "layout": "right",
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1648922541bb8369c2",
+    "1648922591effc73fb",
+    "16489233085d579ab4"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
+    },
+    "1654270417540937cd": {
+      "type": "featured-collections",
+      "blocks": {
+        "16542704171139a2aa-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "1-year-protection-plan",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "16542704171139a2aa-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "3-year-protection-plan",
+            "focal_point": "center center",
+            "size": "wide"
+          }
+        },
+        "16542704171139a2aa-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "5-year-protection-plan",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "16542704171139a2aa-3": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "16542704171139a2aa-4": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "16542704171139a2aa-5": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "focal_point": "center center",
+            "size": "wide"
+          }
+        }
+      },
+      "block_order": [
+        "16542704171139a2aa-0",
+        "16542704171139a2aa-1",
+        "16542704171139a2aa-2",
+        "16542704171139a2aa-3",
+        "16542704171139a2aa-4",
+        "16542704171139a2aa-5"
+      ],
+      "settings": {
+        "title": "",
+        "divider": false,
+        "enable_gutter": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1654270417540937cd"
+  ]
+}

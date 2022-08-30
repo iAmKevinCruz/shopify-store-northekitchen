@@ -1,0 +1,776 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "faq": {
+      "type": "faq",
+      "blocks": {
+        "faq-0": {
+          "type": "rich-text",
+          "settings": {
+            "title": "General Questions",
+            "text": "",
+            "align_text": "left"
+          }
+        },
+        "faq-1": {
+          "type": "question",
+          "settings": {
+            "title": "WHERE WILL MY ZLINE PRODUCT SHIP FROM?",
+            "text": "<p>ZLINE products are shipped from our facilities in Nevada, Tennessee, and Ohio. Your product should ship from the nearest location, dependent on availability.<\/p>"
+          }
+        },
+        "6528bd31-961e-4851-9dbf-20aa5f1523bc": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I OBTAIN AN ORDER CONFIRMATION?",
+            "text": "<p>•    A valid email address must be provided during the checkout process.<\/p><p>•    All orders are subject to verification and approval.<\/p><p>•    All approved orders will be accompanied by an email confirmation from our secure payment server.<\/p><p>•    All shipped orders will be followed by an email confirmation including tracking number(s) and shipping carrier contact information. If you do not see your order confirmation, please check your junk or spam folder.<\/p>"
+          }
+        },
+        "8a900841-ad8a-4c5b-a273-97a36c5e11e0": {
+          "type": "question",
+          "settings": {
+            "title": "WHAT IS THE SHIPPING TIME FRAME?",
+            "text": "<p>Please allow 1 business day upon ordering for your items to process and ship. Once the order has shipped: Items that ship ground will take 5-7 business days to arrive depending on your location from shipping warehouse. Items that ship freight will take 3-7 business days to arrive depending on your location from shipping warehouse. <strong>NOTE:<\/strong> <strong>Shipping time may vary based on: delivery location, item allocation, and other logistical factors.<\/strong><\/p>"
+          }
+        },
+        "faq-2": {
+          "type": "question",
+          "settings": {
+            "title": "WHAT IF I NEED TO RETURN MY PRODUCT(S)?",
+            "text": "<p>You can review Northe Kitchen & Bath's Return Policy <a href=\"\/pages\/returns-refunds-policy\" title=\"Returns & Refunds Policy\">here<\/a>. <\/p><p>For help repackaging your range hood, please see the video link below:<\/p><p><a href=\"https:\/\/youtu.be\/1o0ux565p08\" target=\"_blank\" title=\"https:\/\/youtu.be\/1o0ux565p08\">How to Re-package a ZLINE Range Hood<\/a><\/p>"
+          }
+        },
+        "3d198c42-d968-4855-8b29-d5b2e71d91fe": {
+          "type": "question",
+          "settings": {
+            "title": "WHAT IF MY ZLINE PRODUCT ARRIVED DAMAGED?",
+            "text": "<p>Please see our \"Freight Return Policy\" <a href=\"\/pages\/returns-refunds-policy\" title=\"Returns & Refunds Policy\">Click Here<\/a><\/p>"
+          }
+        },
+        "faq-4": {
+          "type": "question",
+          "settings": {
+            "title": "WHAT IF I'M MISSING A PART OR A PART ARRIVED DAMAGED?",
+            "text": "<p>If you have already accepted the package and notice missing or damaged parts, please contact us right away and we will ship replacement parts free of charge. We usually only have a <strong>48-hour<\/strong>window to file freight claims. If we cannot replace the parts, our carrier will pick up the original package and we will send you a full replacement.<\/p>"
+          }
+        },
+        "3fff999d-031f-4c03-a0a6-4ddb18d09544": {
+          "type": "question",
+          "settings": {
+            "title": "WHAT IS THE DIFFERENCE BETWEEN ZLINE DURASNOW® AND CLASSIC STAINLESS STEEL?",
+            "text": "<p>Mimicking classic stainless steel, ZLINE's exclusive DuraSnow® appliances feature a finger-print resistant, non-directional brushed stainless steel finish. View our video below to learn more about the difference between ZLINE's DuraSnow® vs. Standard Stainless finish.<\/p><p><a href=\"https:\/\/youtu.be\/YdY0ezxA85Q\" target=\"_blank\" title=\"https:\/\/youtu.be\/YdY0ezxA85Q\">DuraSnow® vs. Standard Stainless Video<\/a><\/p>"
+          }
+        },
+        "fbf6d7a5-5a2d-4798-8d31-bb0856f0dbb5": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I MAINTAIN MY ZLINE DURASNOW® APPLIANCE?",
+            "text": "<p>Follow this instructional video <a href=\"https:\/\/youtu.be\/YC7BcSBnkSw\" target=\"_blank\" title=\"https:\/\/youtu.be\/YC7BcSBnkSw\">LINK<\/a> for steps on how to maintain your ZLINE DuraSnow® appliance.<\/p>"
+          }
+        },
+        "b26d78fe-9884-4246-9646-75bcd7e81f01": {
+          "type": "question",
+          "settings": {
+            "title": "WHAT IS ZLINE CROWNSOUND®?",
+            "text": "<p>ZLINE CrownSound® Range Hoods feature a high-fidelity bluetooth sound system that is seamlessly integrated in the crown molding.<a href=\"https:\/\/www.zlinekitchen.com\/crownsound\"><strong>Click Here <\/strong><\/a>to Explore CrownSound®<\/p>"
+          }
+        },
+        "53a7ea53-1df6-4af9-9a58-e11788109a69": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I GET SERVICE ON MY ZLINE PRODUCT?",
+            "text": "<p>If you are under the ZLINE range warranty, please contact us through our <a href=\"https:\/\/zlinekitchen.com\/warranty-claims\" target=\"_blank\" title=\"https:\/\/zlinekitchen.com\/warranty-claims\"><strong>Warranty Claim Form<\/strong><\/a> to request service on your range.<\/p>"
+          }
+        },
+        "7b83d9ee-2188-45eb-bc6e-ab13a4d81180": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I GET SERVICE IF MY WARRANTY IS EXPIRED?",
+            "text": "<p>If your warranty has expired, the ZLINE Customer Service Team will still be able to assist you with support. This will include assessing the issue and assisting with ordering the needed parts.<\/p><p>Note: Once your warranty has expired, ZLINE will no longer cover service, labor, or parts for your product.<\/p>"
+          }
+        },
+        "b10e54e7-d3f7-44d5-bdbf-be0f09a8e263": {
+          "type": "question",
+          "settings": {
+            "title": "WHAT PRODUCT WARRANTIES ARE AVAILABLE WITH ZLINE PRODUCTS?",
+            "text": "<p>ZLINE stands by the longevity and durability of their products, while ensuring maximum protection and peace of mind with worry-free product manufacturer warranties. For more information regarding our manufacturer warranties by product category, <a href=\"https:\/\/www.zlinekitchen.com\/warranties\" target=\"_blank\"><strong>click here.<\/strong><\/a><\/p>"
+          }
+        },
+        "d9afeb98-5c7d-46f2-a371-1b3c307aabbe": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I REGISTER THE WARRANTY ON MY ZLINE PRODUCT?",
+            "text": "<p>To register your ZLINE product, visit our <a href=\"https:\/\/www.zlinekitchen.com\/product-registration\" target=\"_blank\"><strong>Product Registration Page<\/strong><\/a> and complete the product registration form. If your ZLINE product does not possess a serial number, the warranty is already registered upon the purchase date from the retailer you purchased from.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "faq-0",
+        "faq-1",
+        "6528bd31-961e-4851-9dbf-20aa5f1523bc",
+        "8a900841-ad8a-4c5b-a273-97a36c5e11e0",
+        "faq-2",
+        "3d198c42-d968-4855-8b29-d5b2e71d91fe",
+        "faq-4",
+        "3fff999d-031f-4c03-a0a6-4ddb18d09544",
+        "fbf6d7a5-5a2d-4798-8d31-bb0856f0dbb5",
+        "b26d78fe-9884-4246-9646-75bcd7e81f01",
+        "53a7ea53-1df6-4af9-9a58-e11788109a69",
+        "7b83d9ee-2188-45eb-bc6e-ab13a4d81180",
+        "b10e54e7-d3f7-44d5-bdbf-be0f09a8e263",
+        "d9afeb98-5c7d-46f2-a371-1b3c307aabbe"
+      ],
+      "settings": {
+        "title": ""
+      }
+    },
+    "1647723626b7b4bd3a": {
+      "type": "faq",
+      "blocks": {
+        "8d6f455f-01b9-4943-b71f-bd78b9beba0a": {
+          "type": "rich-text",
+          "settings": {
+            "title": "Payments",
+            "text": "",
+            "align_text": "left"
+          }
+        },
+        "16477236255268ef02-0": {
+          "type": "question",
+          "settings": {
+            "title": "WHAT ARE THE ACCEPTED PAYMENT METHODS?",
+            "text": "<p>All major credit and debit cards, including: VISA, MasterCard, Discover, American Express and PayPal.<\/p>"
+          }
+        },
+        "16477236255268ef02-1": {
+          "type": "question",
+          "settings": {
+            "title": "ARE THERE FINANCING OPTIONS AVAILABLE?",
+            "text": "<p>NORTHE K&B offers financing options through <a href=\"https:\/\/therangehoodstore.com\/pages\/affirm\" target=\"_blank\" title=\"Pay with Affirm\">Affirm<\/a>. Through Affirm financing, we offer financing terms on applicable products. Terms and conditions of using Affirm can be found on their website along with the necessary forms for pre-qualifying for financing<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "8d6f455f-01b9-4943-b71f-bd78b9beba0a",
+        "16477236255268ef02-0",
+        "16477236255268ef02-1"
+      ],
+      "settings": {
+        "title": ""
+      }
+    },
+    "1647872335a934126c": {
+      "type": "faq",
+      "blocks": {
+        "1647872335dbbbaafb-0": {
+          "type": "question",
+          "settings": {
+            "title": "WHAT ELSE DO I NEED TO ORDER?",
+            "text": "<p>Everything you need to install and use your ZLINE Range Hood will come in the box.<\/p><p>If your kitchen ceiling is shorter than 8 feet or taller than 9 feet, you may need to purchase an additional chimney kit. Please see \"What size chimney do I need?\" below for more information.<\/p>"
+          }
+        },
+        "1647872335dbbbaafb-1": {
+          "type": "question",
+          "settings": {
+            "title": "WHAT SIZE CHIMNEY DO I NEED?",
+            "text": "<p><a href=\"https:\/\/youtu.be\/Ben7khkfsuA\" target=\"_blank\" title=\"https:\/\/youtu.be\/Ben7khkfsuA\">Click Here<\/a> to learn how to calculate the ideal chimney height for your kitchen.<\/p>"
+          }
+        },
+        "a55a2976-210a-49e1-8265-1212e26fe38f": {
+          "type": "question",
+          "settings": {
+            "title": "WHERE IS THE CORD FOR MY REMOTE BLOWER?",
+            "text": "<p>First, check the inside of the remote blower box to ensure that the cord is not coiled up inside. This is where we package the remote blower cords. If it is missing, please contact our Customer Service Department and we can happily assist you in getting a cord shipped to you. <\/p>"
+          }
+        },
+        "498d9e30-879f-4802-ba8c-f8e8fd00fda9": {
+          "type": "question",
+          "settings": {
+            "title": "WHY DOES THERE APPEAR TO BE WHITE PLASTIC ON MY RANGE HOOD?",
+            "text": "<p>The white film around your range hood is a plastic layer that is designed to protect your range hood during shipment. This is removed by simply peeling it off of the range hood.<\/p>"
+          }
+        },
+        "c6e17088-da3c-4fde-9ef2-e8084e423e1f": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I OPERATE THE BUTTON PANEL?",
+            "text": "<p><a href=\"https:\/\/static1.squarespace.com\/static\/57683e2f8419c29d040867a0\/t\/5e1cc87bebc0e41860da5263\/1578944635779\/Button+Control+Panel+Operation.pdf\">Click here <\/a>to view\/download the button panel operation instructions<\/p>"
+          }
+        },
+        "93493e2c-076f-4929-bfd3-c58a8083165e": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I INSTALL MY WALL MOUNT RANGE HOOD?",
+            "text": "<p>The installation instructions can be found in our range hood <a href=\"https:\/\/zlinekitchen.com\/range-hood-manual\" target=\"_blank\">users guide and installation manual<\/a>.<\/p>"
+          }
+        },
+        "abdcdcdf-ca54-4f69-b9ca-016491e30d0e": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I INSTALL MY ISLAND MOUNT RANGE HOOD?",
+            "text": "<p>The installation instructions can be found in our range hood <a href=\"https:\/\/zlinekitchen.com\/range-hood-manual\" target=\"_blank\">users guide and installation manual<\/a>. <a href=\"https:\/\/youtu.be\/uogE5m1XCZM\" target=\"_blank\" title=\"https:\/\/youtu.be\/uogE5m1XCZM\">Click Here<\/a> to see the installation process for island range hoods.<\/p>"
+          }
+        },
+        "7d1ce653-ba33-4495-b843-8ddea6ec398e": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I INSTALL MY UNDER CABINET RANGE HOOD?",
+            "text": "<p>The installation instructions can be found in our range hood <a href=\"https:\/\/zlinekitchen.com\/range-hood-manual\" target=\"_blank\">users guide and installation manual<\/a>. <a href=\"https:\/\/youtu.be\/IsARRxCyMbQ\" target=\"_blank\" title=\"https:\/\/youtu.be\/IsARRxCyMbQ\">Click Here<\/a> to see the installation process for island range hoods.<\/p>"
+          }
+        },
+        "9c615822-891c-4f98-8791-a18a73d4df69": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I INSTALL MY RANGE HOOD'S BAFFLE CHANNELS?",
+            "text": "<p>The baffle channels are easily installed by attaching them to the underside of the range hood and into the baffle channel. <a href=\"https:\/\/youtu.be\/lnNj45FrZ9o\" target=\"_blank\" title=\"https:\/\/youtu.be\/lnNj45FrZ9o\">Click Here <\/a>to see how to install your range hood's baffle channels.<\/p>"
+          }
+        },
+        "d5ac95de-8587-4c2a-8097-2f2231102de0": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I INSTALL MY RANGE HOOD'S BAFFLE FILTERS?",
+            "text": "<p>The baffle filters are easily installed by placing them in the under-side of the range hood and into the baffle channel. <a href=\"https:\/\/youtu.be\/tLP7kq5VWzE\" target=\"_blank\" title=\"https:\/\/youtu.be\/tLP7kq5VWzE\">Click Here<\/a> to see how to install your range hood's baffle channel and baffle filters.<\/p>"
+          }
+        },
+        "5c64ca0a-93e9-4bc0-91ff-5b7c7ea823d8": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I INSTALL MY RANGE HOOD'S GREASE CUP?",
+            "text": "<p>The grease cup is easily installed by sliding it into the grooves that are under your range hood's motor. <a href=\"https:\/\/youtu.be\/ras3E7nCo9k\" target=\"_blank\" title=\"https:\/\/youtu.be\/ras3E7nCo9k\">Click Here<\/a> for instructions on how to install the grease cup.<\/p>"
+          }
+        },
+        "adf53383-0944-4a85-91d0-a977091fc37a": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I INSTALL MY CHARCOAL FILTERS?",
+            "text": "<p>The charcoal filters can easily be installed but twisting them onto the sides of the motor. <a href=\"https:\/\/youtu.be\/YDG1uSvTLcw\" target=\"_blank\" title=\"https:\/\/youtu.be\/YDG1uSvTLcw\">Click Here<\/a> to see how to properly install your charcoal filters.<\/p>"
+          }
+        },
+        "cadbcb96-934b-42f8-b733-bffffeaf8af6": {
+          "type": "question",
+          "settings": {
+            "title": "HOW OFTEN SHOULD I REPLACE MY CHARCOAL FILTERS?",
+            "text": "<p>ZLINE charcoal filters should be replaced every 3-6 months, depending on your cooking habits. If you cook often and\/or with a lot of oils and fats, it is recommended to change out your filters more often.<\/p>"
+          }
+        },
+        "d6788038-c386-4116-b450-013b59590203": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I INSTALL A WALL MOUNTED CROWN MOLDING?",
+            "text": "<p>The wall mounted crown molding is easily installed by sliding it over the top chimney piece. Instructions for this installation can be found in our range hood <a href=\"https:\/\/zlinekitchen.com\/range-hood-manual\" target=\"_blank\">user guide and installation manual<\/a>. Watch <a href=\"https:\/\/youtu.be\/N1GdxXPlb88\" target=\"_blank\" title=\"https:\/\/youtu.be\/N1GdxXPlb88\">Here<\/a> to view the installation process.<\/p>"
+          }
+        },
+        "10c4ad9b-25b0-4e0a-baab-932bec0bd74d": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I INSTALL AN ISLAND MOUNTED CROWN MOLDING?",
+            "text": "<p>The island mounted crown molding comes in two pieces and is easily installed by sliding it over the top chimney piece. Follow this <a href=\"https:\/\/youtu.be\/uogE5m1XCZM\" target=\"_blank\" title=\"https:\/\/youtu.be\/uogE5m1XCZM\">Video<\/a> for instructions on how to install an island mount range hood and crown molding. <\/p>"
+          }
+        },
+        "d09c8b47-ad34-445d-aede-71bc8f0eb1d4": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I INSTALL A CROWNSOUND® BLUETOOTH CROWN MOLDING?",
+            "text": "<p>The wall mounted crown molding is easily installed by sliding it over the top chimney piece. Instructions for this installation can be found in our range hood<a href=\"https:\/\/zlinekitchen.com\/crownsound-manual\" target=\"_blank\">user guide and installation manual<\/a>. Watch this <a href=\"https:\/\/youtu.be\/eCUGoaKurwg\" target=\"_blank\" title=\"https:\/\/youtu.be\/eCUGoaKurwg\">Video<\/a> to view the installation process.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1647872335dbbbaafb-0",
+        "1647872335dbbbaafb-1",
+        "a55a2976-210a-49e1-8265-1212e26fe38f",
+        "498d9e30-879f-4802-ba8c-f8e8fd00fda9",
+        "c6e17088-da3c-4fde-9ef2-e8084e423e1f",
+        "93493e2c-076f-4929-bfd3-c58a8083165e",
+        "abdcdcdf-ca54-4f69-b9ca-016491e30d0e",
+        "7d1ce653-ba33-4495-b843-8ddea6ec398e",
+        "9c615822-891c-4f98-8791-a18a73d4df69",
+        "d5ac95de-8587-4c2a-8097-2f2231102de0",
+        "5c64ca0a-93e9-4bc0-91ff-5b7c7ea823d8",
+        "adf53383-0944-4a85-91d0-a977091fc37a",
+        "cadbcb96-934b-42f8-b733-bffffeaf8af6",
+        "d6788038-c386-4116-b450-013b59590203",
+        "10c4ad9b-25b0-4e0a-baab-932bec0bd74d",
+        "d09c8b47-ad34-445d-aede-71bc8f0eb1d4"
+      ],
+      "settings": {
+        "title": "Range Hoods"
+      }
+    },
+    "1647872349489680a7": {
+      "type": "faq",
+      "blocks": {
+        "164787234969e64c25-0": {
+          "type": "question",
+          "settings": {
+            "title": "WHAT IF I NEED TO REPLACE A PART ON MY RANGE HOOD?",
+            "text": "<p>No problem! Just contact our Customer Service Department and our team will be happy to send you any replacement parts that you may need (if covered under 3 year warranty).<\/p>"
+          }
+        },
+        "164787234969e64c25-1": {
+          "type": "question",
+          "settings": {
+            "title": "MY RANGE HOOD'S LIGHTS AREN'T WORKING. WHAT DO I DO?",
+            "text": "<p>Please contact our Customer Service Department to assist with any range hood troubleshooting or replacement part inquiries.<\/p>"
+          }
+        },
+        "e95902fd-146d-44e5-a059-d23b481bf402": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I REPLACE THE LIGHTS ON MY ZLINE RANGE HOOD?",
+            "text": "<p>Replacing your LED light bulbs is a simply plug and play task. Follow the <a href=\"https:\/\/youtu.be\/GDgzXrbszDE\" target=\"_blank\" title=\"https:\/\/youtu.be\/GDgzXrbszDE\">Video<\/a> for instructions on this parts replacement process.<\/p>"
+          }
+        },
+        "f7c78f81-bc9e-45da-9924-d77a76da6816": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I REPLACE MY BUTTON PANEL?",
+            "text": "<p>If your button panel needs replacing, make sure you fill out our <a href=\"\/pages\/contact\" title=\"Contact Us\">Contact Form<\/a> so a Customer Service Representative can get a replacement shipped out to you. After receiving your replacement, installing your new button panel is simply a plug and play task. Follow this <a href=\"https:\/\/youtu.be\/lTMpclxUoPo\" target=\"_blank\" title=\"https:\/\/youtu.be\/lTMpclxUoPo\">Video<\/a> for instructions on this process:<\/p>"
+          }
+        },
+        "2b9dd9d8-77ec-4611-8cf1-dd54a8f6dc86": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I REPLACE MY CIRCUIT BOARD?",
+            "text": "<p><a href=\"https:\/\/youtu.be\/SDgCe8eN6XA\" target=\"_blank\" title=\"https:\/\/youtu.be\/SDgCe8eN6XA\">Click Here<\/a> to see how to replace the circut board on your range hood.<\/p>"
+          }
+        },
+        "21d8502c-1286-4574-b74e-77d0bafd19a0": {
+          "type": "question",
+          "settings": {
+            "title": "IS DUCTING INCLUDED WITH ZLINE RANGE HOODS?",
+            "text": "<p>Yes, a flexible plastic ducting piece is included with each range hood that will stretch out to about 5 ft long. Any additional ducting that is needed for your installation will have to be purchased from a local hardware store.<\/p>"
+          }
+        },
+        "937f346f-ce25-477c-b0f0-3409c0a4e186": {
+          "type": "question",
+          "settings": {
+            "title": "CAN I REPLACE THE INCLUDED DUCTING WITH RIDGED METAL DUCTING?",
+            "text": "<p>Yes, the ducting can be replaced with a ridged metal ducting that is purchased from a local hardware store.<\/p>"
+          }
+        },
+        "ae9609fe-242a-4be2-b11e-ba26a282b72d": {
+          "type": "question",
+          "settings": {
+            "title": "CAN I VENT MY WALL MOUNTED RANGE HOOD RIGHT OUT OF THE WALL?",
+            "text": "<p>For an efficient pull on your range hood, we recommend to keep the ductwork vertical at least 15\" before making your first elbow. Only the following under cabinet range hood series can be converted to rear-ducting: 520, 523, and 527.<\/p>"
+          }
+        },
+        "17e5fbba-eb48-4aa2-a106-040dc31b3cd1": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I CONVERT MY ZLINE RANGE HOOD TO DUCTLESS?",
+            "text": "<p>Most ZLINE wall mounted range hoods feature the option to be converted to ductless (or recirculating). If the range hood is convertible, all that is needed for stainless steel models is a set of ZLINE Charcoal Filters. However, for select convertible designer series models, an additional compatible vented crown molding will need to be ordered as well.<\/p><p>Need further assistance with ductless range hood options? Fill out our <a href=\"\/pages\/contact\" title=\"Contact Us\"><strong>contact form<\/strong><\/a> for assistance from the ZLINE Customer Department team.<\/p>"
+          }
+        },
+        "659b6762-7fa8-489b-947d-765415843d83": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I INSTALL MY ZLINE RANGE HOOD ON MY SLOPED OR SLANTED CEILING?",
+            "text": "<p>For sloped or slanted ceilings, we recommend for customers to have the chimney piece custom cut at an angle, or there is the option of building a soffit down from the ceiling in order to mount the range hood on a flat surface.<\/p>"
+          }
+        },
+        "a4f81e2e-3a14-41aa-8668-bd628e35d619": {
+          "type": "question",
+          "settings": {
+            "title": "CAN I PAINT OR STAIN MY WOODEN RANGE HOOD?",
+            "text": "<p>You may paint your wooden range hood, however, the different areas of the hood are more porous than others so when you stain it, it will look different in some areas and won’t be a smooth stain. This may cause it to look discolored in some parts, so we don't recommend staining our wood hoods.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "164787234969e64c25-0",
+        "164787234969e64c25-1",
+        "e95902fd-146d-44e5-a059-d23b481bf402",
+        "f7c78f81-bc9e-45da-9924-d77a76da6816",
+        "2b9dd9d8-77ec-4611-8cf1-dd54a8f6dc86",
+        "21d8502c-1286-4574-b74e-77d0bafd19a0",
+        "937f346f-ce25-477c-b0f0-3409c0a4e186",
+        "ae9609fe-242a-4be2-b11e-ba26a282b72d",
+        "17e5fbba-eb48-4aa2-a106-040dc31b3cd1",
+        "659b6762-7fa8-489b-947d-765415843d83",
+        "a4f81e2e-3a14-41aa-8668-bd628e35d619"
+      ],
+      "settings": {
+        "title": ""
+      }
+    },
+    "1647875664adfd49e0": {
+      "type": "faq",
+      "blocks": {
+        "1647875664f4ce28d2-0": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I SET UP THE BURNERS ON MY RANGE OR COOKTOP?",
+            "text": "<p>This <a href=\"https:\/\/youtu.be\/IjytVh9Irfs\" target=\"_blank\" title=\"https:\/\/youtu.be\/IjytVh9Irfs\">Video<\/a> demonstrates how to set up the burners on your ZLINE Range or Rangetop.<\/p>"
+          }
+        },
+        "1647875664f4ce28d2-1": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I CONVERT FROM NATURAL GAS TO PROPANE?",
+            "text": "<p>All ZLINE ranges come with a propane conversion kit. The dual fuel ranges will come with a conversion kit for the stove top, while the all gas ranges will come with a conversion kit for both the stove top and the oven.<\/p><p><a href=\"https:\/\/youtu.be\/NCMNNHEmOZs\" target=\"_blank\" title=\"https:\/\/youtu.be\/NCMNNHEmOZs\">Click Here<\/a> to see how to convert your ZLINE Natural Gas <strong>range top <\/strong>to Propane.<\/p><p><a href=\"https:\/\/youtu.be\/9sd6NJXY_MU\" target=\"_blank\" title=\"https:\/\/youtu.be\/9sd6NJXY_MU\">Click Here<\/a> to see how to convert your ZLINE Natural Gas <strong>Oven <\/strong>to Propane.<\/p><p>NOTE: <em>Gas Conversion should be conducted by a factory trained professional<\/em><\/p><p>For more information on LP conversion please consult your <a href=\"https:\/\/zlinekitchen.com\/manuals-1\">range manual<\/a>.<\/p>"
+          }
+        },
+        "8005c153-45fe-4260-8e4d-160bc679fb60": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I ADJUST THE FLAME HEIGHT ON MY RANGE?",
+            "text": "<p>The <a href=\"https:\/\/youtu.be\/dOCgHZtFjTM\" target=\"_blank\" title=\"https:\/\/youtu.be\/dOCgHZtFjTM\">Video<\/a> demonstrates how to adjust the flame height on you ZLINE range or rangetop.<\/p><p>If you are missing the flame adjustment tool for your ZLINE range, please fill out the <a href=\"\/pages\/contact\" title=\"Contact Us\"><strong>contact form<\/strong><\/a> for assistance from our Customer Service Department.<\/p>"
+          }
+        },
+        "7ad7b01f-d757-4cfd-924b-d8c822482402": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I INSTALL MY COLOR RANGE DOOR PANEL?",
+            "text": "<p>This <a href=\"https:\/\/youtu.be\/SOi5EKlp2cU\" target=\"_blank\" title=\"https:\/\/youtu.be\/SOi5EKlp2cU\">Video<\/a> demonstrates how to install your ZLINE color range door.<\/p>"
+          }
+        },
+        "3f4bcbfe-b514-4cf0-a552-2f6ff4e0036d": {
+          "type": "question",
+          "settings": {
+            "title": "WHAT IF I NEED SERVICE ON MY RANGE?",
+            "text": "<p>ZLINE Ranges come with a manufacturer warranty valid for 1 year from purchase date. Under the manufacturer warranty parts and service are covered for any issue related to a faulty product. Issues related to improper installation or user error will not be covered. <\/p><p>To request service for your ZLINE range, please contact us through our <a href=\"https:\/\/zlinekitchen.com\/warranty-claims\"><strong>Warranty Claim form<\/strong><\/a>. For quicker service, please provide your order number. The number is often located on your receipt or packing slip, if you are unable to locate it, please first contact the retailer for your order information. Our ZLINE warranty specialists may also ask you to provide pictures or video of the issue to aid in diagnosing the error.<\/p>"
+          }
+        },
+        "a0b304ad-44f7-4d68-9438-aa74e6a51a30": {
+          "type": "question",
+          "settings": {
+            "title": "WHO WOULD SERVICE MY ZLINE RANGE IN MY AREA?",
+            "text": "<p>ZLINE is partnered with a nationwide servicing company, New Leaf. Once your warranty claim is submitted, the ZLINE team will submit your claim information to New Leaf, who will then locate a local qualified servicer to resolve any issues.<\/p>"
+          }
+        },
+        "da11118f-e45c-41a7-ae05-49c4124adcf3": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO ZLINE INDUCTION COOKTOPS WORK?",
+            "text": "<p>ZLINE Induction cooktops use utilize electromagnetic technology to achieve its incredibly fast and evenly distributed heat. Featuring a coil below the glass surface, the cooktop will create a magnetic field that reacts only with magnetic stainless or cast iron pots and pans. Read more about ZLINE induction cooking on the <a href=\"https:\/\/www.zlinekitchen.com\/whatsnew\/2020\/8\/26\/zline-induction-cooktops\"><strong>ZLINE Blog<\/strong><\/a>.<\/p>"
+          }
+        },
+        "806f2a30-af4e-46ba-b205-ca1f0530735e": {
+          "type": "question",
+          "settings": {
+            "title": "CAN I LOWER THE BACK BAR OF MY ZLINE RANGE TOP OR RANGE?",
+            "text": "<p>Yes, the back bar of a ZLINE range top or range can be lowered by following the Island Conversion Procedure instructions found <a href=\"https:\/\/static1.squarespace.com\/static\/57683e2f8419c29d040867a0\/t\/5e1cbd11a298d87880bb1e78\/1578941718030\/RangeTop%2BConversion.pdf\"><strong>here<\/strong><\/a>.<\/p>"
+          }
+        },
+        "8852186c-8a44-46e9-8b79-35dd639929d8": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I CLEAN MY COOKTOP?",
+            "text": "<p>To clean your cooktop we recommend using warm, soapy water applied with a soft sponge or towel. Be sure to avoid using abrasive cleaning solutions or tools, as well as leaving acid-based substances on the range's enamel.<\/p>"
+          }
+        },
+        "2a3239fe-f496-41ca-bf5f-6ab69e425ec5": {
+          "type": "question",
+          "settings": {
+            "title": "WHAT'S THE DIFFERENCE BETWEEN DUAL FUEL AND GAS-ON-GAS?",
+            "text": "<p>Dual fuel ranges are stoves that feature an oven that uses an electrical connection and a stovetop that uses a gas connection, whereas gas-on-gas has a gas connection for both the oven and stovetop.<\/p>"
+          }
+        },
+        "a00a44ed-88f2-4fe9-ae2a-e40321e97f2a": {
+          "type": "question",
+          "settings": {
+            "title": "ARE ZLINE RANGES TRUE CONVECTION?",
+            "text": "<p>Our ranges only have two heating elements at the top and bottom of the oven. Since our ovens don't have a third heating element in the middle, it is not considered True Convection, or European Convection.<\/p>"
+          }
+        },
+        "53386f23-cadd-4879-afb4-1d8e453b2d8a": {
+          "type": "question",
+          "settings": {
+            "title": "WHAT IS THE DIFFERENCE BETWEEN BRASS BURNERS AND TRADITIONAL BURNERS?",
+            "text": "<p>Brass burners offer superior heat retention and heat spreads more evenly. They'll often times have a longer lifespan than traditional burners as well.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1647875664f4ce28d2-0",
+        "1647875664f4ce28d2-1",
+        "8005c153-45fe-4260-8e4d-160bc679fb60",
+        "7ad7b01f-d757-4cfd-924b-d8c822482402",
+        "3f4bcbfe-b514-4cf0-a552-2f6ff4e0036d",
+        "a0b304ad-44f7-4d68-9438-aa74e6a51a30",
+        "da11118f-e45c-41a7-ae05-49c4124adcf3",
+        "806f2a30-af4e-46ba-b205-ca1f0530735e",
+        "8852186c-8a44-46e9-8b79-35dd639929d8",
+        "2a3239fe-f496-41ca-bf5f-6ab69e425ec5",
+        "a00a44ed-88f2-4fe9-ae2a-e40321e97f2a",
+        "53386f23-cadd-4879-afb4-1d8e453b2d8a"
+      ],
+      "settings": {
+        "title": "Ranges, Cooktops & Wall Ovens"
+      }
+    },
+    "164787676793cbce2b": {
+      "type": "faq",
+      "blocks": {
+        "16478767679082b8cb-0": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I INSTALL MY DISHWASHER PANEL?",
+            "text": "<p><a href=\"https:\/\/youtu.be\/RrbeSCgFi4Y\" target=\"_blank\" title=\"https:\/\/youtu.be\/RrbeSCgFi4Y\">Click Here<\/a> to see how to install your ZLINE designer dishwasher panel:<\/p>"
+          }
+        },
+        "16478767679082b8cb-1": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I TROUBLESHOOT AN ERROR CODE ON MY ZLINE DISHWASHER?",
+            "text": "<p>View the troubleshooting guide starting on page 44 of the ZLINE <a href=\"https:\/\/static1.squarespace.com\/static\/57683e2f8419c29d040867a0\/t\/5e33167445fa8d7d7c756564\/1580406410189\/Dishwasher+User+Manual+and+Install+Guide+Jan+2020+-+WEB.pdf\"><strong>Dishwasher User Manual<\/strong><\/a><\/p>"
+          }
+        },
+        "071e40cb-f0e5-4573-aa2f-822bfe400162": {
+          "type": "question",
+          "settings": {
+            "title": "WHAT DO I USE TO CLEAN THE EXTERIOR AND INTERIOR OF MY ZLINE DISHWASHER?",
+            "text": "<p>View the cleaning recommendations starting on page 40 of the ZLINE <a href=\"https:\/\/static1.squarespace.com\/static\/57683e2f8419c29d040867a0\/t\/5e33167445fa8d7d7c756564\/1580406410189\/Dishwasher+User+Manual+and+Install+Guide+Jan+2020+-+WEB.pdf\"><strong>Dishwasher User Manual<\/strong><\/a><\/p>"
+          }
+        },
+        "c09cf312-924c-4264-ad24-77f33edcb034": {
+          "type": "question",
+          "settings": {
+            "title": "WHAT DOES THE ENERGY STAR RATING ON ZLINE DISHWASHERS MEAN?",
+            "text": "<p>Every ZLINE dishwasher is ENERGY STAR compliant, meaning it contains advanced technology that reduces both energy and water consumption by over 30% each load.<\/p>"
+          }
+        },
+        "b401ad06-deb8-433f-9df3-edad07190db8": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I ADD A DISH TO MY DISHWASHER AFTER THE CYCLE HAS STARTED?",
+            "text": "<p>To add or remove items after wash cycle starts:<\/p><p>Open door slightly and wait a few seconds until wash action stops completely before opening.<\/p><p>Add the item.<\/p><p>Close the door firmly to latch within 4 seconds, then cycle will automatically resume.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16478767679082b8cb-0",
+        "16478767679082b8cb-1",
+        "071e40cb-f0e5-4573-aa2f-822bfe400162",
+        "c09cf312-924c-4264-ad24-77f33edcb034",
+        "b401ad06-deb8-433f-9df3-edad07190db8"
+      ],
+      "settings": {
+        "title": "Dishwashers"
+      }
+    },
+    "16478800138f0d68d9": {
+      "type": "faq",
+      "blocks": {
+        "164788001348f8246d-0": {
+          "type": "question",
+          "settings": {
+            "title": "WHICH ZLINE MICROWAVES HAVE A CONVECTION FEATURE?",
+            "text": "<p>The ZLINE Over the Range Microwaves and Built-in Microwave feature convection cooking.<\/p>"
+          }
+        },
+        "164788001348f8246d-1": {
+          "type": "question",
+          "settings": {
+            "title": "WHAT IS SENSOR COOKING WITH ZLINE MICROWAVES?",
+            "text": "<p>\"The ZLINE Over the Range Microwave and Built-in Microwave feature sensor cooking. Sensor cooking allows you to cook many of your favorite foods without selecting cooking times and power levels. The microwave oven automatically determines the required cooking time for each food item by measuring the vapor that emits from the food when heating.\"<\/p>"
+          }
+        },
+        "b329ccca-0746-40d8-aaf9-ad570ee31759": {
+          "type": "question",
+          "settings": {
+            "title": "WHAT IS TWO OR MULTI-STAGE COOKING WITH ZLINE MICROWAVES?",
+            "text": "<p>This advanced microwave feature allows you to set up your microwave operations with food that calls for different power levels during a cook cycle.<\/p><p>The ZLINE Over the Range Microwave features two stage-cooking with operations found on page 46 of the <a href=\"https:\/\/zlinekitchen.com\/otr-microwave-manual\"><strong>manual<\/strong><\/a>.<\/p><p>The ZLINE Built-in Microwave Oven features multi-stage cooking with operations found on page 23 of the <a href=\"https:\/\/zlinekitchen.com\/microwave-oven-manual\"><strong>manual<\/strong><\/a>.<\/p>"
+          }
+        },
+        "70c53783-003e-4e0a-af65-7ca171d70ca5": {
+          "type": "question",
+          "settings": {
+            "title": "DO ZLINE MICROWAVES HAVE A CHILD LOCK FEATURE?",
+            "text": "<p>Both the ZLINE Microwave Drawer and the Built-in Convection Microwave offer a child lock safety feature.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "164788001348f8246d-0",
+        "164788001348f8246d-1",
+        "b329ccca-0746-40d8-aaf9-ad570ee31759",
+        "70c53783-003e-4e0a-af65-7ca171d70ca5"
+      ],
+      "settings": {
+        "title": "Microwaves"
+      }
+    },
+    "1647881820df83813a": {
+      "type": "faq",
+      "blocks": {
+        "1647881820ff58ff48-0": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I REMOVE A SCRATCH ON MY ZLINE FIRECLAY SINK?",
+            "text": "<p>This <a href=\"https:\/\/youtu.be\/SCDGNS_jNPg\" target=\"_blank\" title=\"https:\/\/youtu.be\/SCDGNS_jNPg\">Video<\/a> demonstrates how to remove scratches from your Fireclay Sink:<\/p>"
+          }
+        },
+        "1647881820ff58ff48-1": {
+          "type": "question",
+          "settings": {
+            "title": "ARE ZLINE SINKS COMPATIBLE WITH GARBAGE DISPOSALS?",
+            "text": "<p>Yes, all ZLINE sinks are garbage disposal compatible.<\/p>"
+          }
+        },
+        "6fbb2bfd-e984-4fde-bd0f-010556b05a2a": {
+          "type": "question",
+          "settings": {
+            "title": "WHAT IS THE DIFFERENCE BETWEEN A DURASNOW® SINK AND STAINLESS STEEL SINK?",
+            "text": "<p>Mimicking classic stainless steel, ZLINE's exclusive DuraSnow® appliances feature a finger-print resistant non-directional brushed finish. View our <a href=\"https:\/\/youtu.be\/YdY0ezxA85Q\" target=\"_blank\" title=\"https:\/\/youtu.be\/YdY0ezxA85Q\">Video<\/a> to learn more about the difference between ZLINE's DuraSnow® vs. Standard Stainless finish.<\/p>"
+          }
+        },
+        "35b0588c-9f3a-41f7-ae71-a9396adb02ba": {
+          "type": "question",
+          "settings": {
+            "title": "WHAT DO I USE TO CLEAN MY ZLINE SINK?",
+            "text": "<p>ZLINE Fireclay sinks can be washed with dish soap and water. A rinse and towel drying after each use will take care of most everyday clean ups. ZLINE Stainless Steel or DuraSnow® Sinks should be rinsed after each use. Ideally, once a week, the sink should be scoured with a mildly abrasive cleaner, such as Comet. More details on cleaning recommendations can be found on page 19 of the <a href=\"https:\/\/www.zlinekitchen.com\/sink-manual\"><strong>Stainless Sink Manual<\/strong><\/a>.<\/p>"
+          }
+        },
+        "3c22e88c-aa8b-491d-8cdf-a1af88cd8f18": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I INSTALL MY ZLINE DURASNOW® OR STAINLESS SINK?",
+            "text": "<p>Installation will depend on the mounting type of your ZLINE Sink. Follow the applicable installation instructions found starting on page 15 of the <a href=\"https:\/\/www.zlinekitchen.com\/sink-manual\"><strong>user manual<\/strong><\/a>.<\/p>"
+          }
+        },
+        "5d996392-7cdd-46d7-b65e-6da4f87d65e3": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I INSTALL MY ZLINE FIRECLAY SINK?",
+            "text": "<p>Follow the installation instructions found starting on page 11 of the <a href=\"https:\/\/www.zlinekitchen.com\/fireclay-manual\"><strong>user manual<\/strong><\/a>.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1647881820ff58ff48-0",
+        "1647881820ff58ff48-1",
+        "6fbb2bfd-e984-4fde-bd0f-010556b05a2a",
+        "35b0588c-9f3a-41f7-ae71-a9396adb02ba",
+        "3c22e88c-aa8b-491d-8cdf-a1af88cd8f18",
+        "5d996392-7cdd-46d7-b65e-6da4f87d65e3"
+      ],
+      "settings": {
+        "title": "Sinks"
+      }
+    },
+    "1647882748fc0b8d3a": {
+      "type": "faq",
+      "blocks": {
+        "164788274874170e8b-0": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I INSTALL MY ZLINE KITCHEN FAUCET?",
+            "text": "<p>Installation will depend on the mounting type of your ZLINE Faucet. Follow the applicable installation instructions found starting on page 3 of the <a href=\"https:\/\/www.zlinekitchen.com\/kitchen-faucet-manual\"><strong>User Manual<\/strong><\/a>.<\/p>"
+          }
+        },
+        "164788274874170e8b-1": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I TROUBLESHOOT A LEAK COMING FROM MY ZLINE FAUCET?",
+            "text": "<p>Troubleshooting instructions for leaking can be found on page 36 of the Kitchen Faucet <a href=\"https:\/\/www.zlinekitchen.com\/kitchen-faucet-manual\"><strong>User Manual<\/strong><\/a>.<\/p>"
+          }
+        },
+        "5e49795a-0358-449e-924d-fc8d06511268": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I MAINTAIN THE SHINE OF MY ZLINE FAUCET?",
+            "text": "<p>Tips to keep your ZLINE product clean and shining:<\/p><p>Rinse clean with water and dry with a soft cloth.<\/p><p>Do not clean with soaps, acid, polish, abrasives, or harsh cleaners.<\/p><p>Do not use cloth with a coarse surface.<\/p><p>Unscrew the aerator and clean when necessary.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "164788274874170e8b-0",
+        "164788274874170e8b-1",
+        "5e49795a-0358-449e-924d-fc8d06511268"
+      ],
+      "settings": {
+        "title": "Kitchen Faucets"
+      }
+    },
+    "1647883067219161c2": {
+      "type": "faq",
+      "blocks": {
+        "16478830673a550dd8-0": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I INSTALL MY ZLINE BATH FAUCET?",
+            "text": "<p>Installation will depend on the mounting type of your ZLINE Faucet. Follow the applicable installation instructions found starting on page 13 of the <a href=\"https:\/\/www.zlinekitchen.com\/bath-faucet-manual\"><strong>User Manual<\/strong><\/a>.<\/p>"
+          }
+        },
+        "16478830673a550dd8-1": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I TROUBLESHOOT A LEAK COMING FROM MY ZLINE BATH FAUCET?",
+            "text": "<p>Troubleshooting instructions for leaking can be found on page 25 of the Bath Faucet <a href=\"https:\/\/www.zlinekitchen.com\/bath-faucet-manual\"><strong>User Manual<\/strong><\/a>.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16478830673a550dd8-0",
+        "16478830673a550dd8-1"
+      ],
+      "settings": {
+        "title": "Bath Faucets"
+      }
+    },
+    "1647883213149e5128": {
+      "type": "faq",
+      "blocks": {
+        "1647883213894ec9e6-0": {
+          "type": "question",
+          "settings": {
+            "title": "WHAT ARE ALL OF THE COMPONENTS THAT COME WITH A ZLINE BLISS SHOWER SYSTEM?",
+            "text": "<p>The ZLINE Bliss Shower System features a rain shower head, detachable hand sprayer, and a shower rail. The full list of components can be found on page 2 of the <a href=\"https:\/\/www.zlinekitchen.com\/shower-system-manual\"><strong>User Manual<\/strong><\/a>.<\/p>"
+          }
+        },
+        "1647883213894ec9e6-1": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I INSTALL MY ZLINE BLISS SHOWER SYSTEM?",
+            "text": "<p>Installation instructions for the Shower System can be found starting on page 5 of the <a href=\"https:\/\/www.zlinekitchen.com\/shower-system-manual\"><strong>User Manual<\/strong><\/a>.<\/p>"
+          }
+        },
+        "9e7eb7bf-db77-4e50-806f-fd2cb5508407": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I INSTALL MY ZLINE EL DORADO SHOWER SYSTEM?",
+            "text": "<p>The shower system faucet installation instructions is found on page 24 of the <a href=\"https:\/\/www.zlinekitchen.com\/shower-system-manual\"><strong>User Manual<\/strong><\/a>.<\/p>"
+          }
+        },
+        "0c51e5bd-ff56-4315-a736-63ec649ac965": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO I TROUBLESHOOT A LEAK COMING FROM MY SHOWER SYSTEM SPRAY HEAD OR HANDLE?",
+            "text": "<p>Troubleshooting instructions for leaking can be found on page 27 of the Shower System <a href=\"https:\/\/www.zlinekitchen.com\/shower-system-manual\"><strong>User Manual<\/strong><\/a>.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1647883213894ec9e6-0",
+        "1647883213894ec9e6-1",
+        "9e7eb7bf-db77-4e50-806f-fd2cb5508407",
+        "0c51e5bd-ff56-4315-a736-63ec649ac965"
+      ],
+      "settings": {
+        "title": "Shower Systems"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "faq",
+    "1647723626b7b4bd3a",
+    "1647872335a934126c",
+    "1647872349489680a7",
+    "1647875664adfd49e0",
+    "164787676793cbce2b",
+    "16478800138f0d68d9",
+    "1647881820df83813a",
+    "1647882748fc0b8d3a",
+    "1647883067219161c2",
+    "1647883213149e5128"
+  ]
+}

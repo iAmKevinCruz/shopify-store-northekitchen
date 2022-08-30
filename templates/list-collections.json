@@ -1,0 +1,41 @@
+{
+  "sections": {
+    "main": {
+      "type": "list-collections-template",
+      "blocks": {
+        "f70aa78c-b52c-44fd-9ed8-dfb32131e5f4": {
+          "type": "collection",
+          "settings": {
+            "collection": "ranges-cooktops"
+          }
+        },
+        "5386a9ca-f59e-48ea-854e-424c52f406f3": {
+          "type": "collection",
+          "settings": {
+            "collection": "rangetops"
+          }
+        },
+        "60fe6f98-dc07-46e4-82a8-168ca0f9cb14": {
+          "type": "collection",
+          "settings": {
+            "collection": "microwaves"
+          }
+        }
+      },
+      "block_order": [
+        "f70aa78c-b52c-44fd-9ed8-dfb32131e5f4",
+        "5386a9ca-f59e-48ea-854e-424c52f406f3",
+        "60fe6f98-dc07-46e4-82a8-168ca0f9cb14"
+      ],
+      "settings": {
+        "title_enable": false,
+        "display_type": "selected",
+        "sort": "alphabetical",
+        "grid": "3"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

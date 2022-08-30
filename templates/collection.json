@@ -1,0 +1,69 @@
+{
+  "sections": {
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "collection_description": {
+          "type": "collection_description",
+          "settings": {
+          }
+        },
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "collection_subnav_style": "inline",
+            "per_row": 4,
+            "mobile_flush_grid": false
+          }
+        }
+      },
+      "block_order": [
+        "collection_description",
+        "product_grid"
+      ],
+      "settings": {
+        "collection_image_enable": true,
+        "collection_image_height": 550,
+        "parallax": true,
+        "enable_sidebar": true,
+        "collapsed": true,
+        "enable_color_swatches": true,
+        "enable_sort": false
+      }
+    },
+    "1656945290ee279cc8": {
+      "type": "advanced-content",
+      "blocks": {
+        "165694529056315bf2-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_at_Jul_04_10-40-06.png",
+            "link": "https:\/\/player.vimeo.com\/video\/700921245?h=ccb725a191&badge=0&autopause=0&player_id=0&app_id=58479",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "165694529056315bf2-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Induction Ranges<\/h2><p>Check out ZLINE's new line of Induction Freestanding Ranges!!<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "165694529056315bf2-0",
+        "165694529056315bf2-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "main-collection",
+    "1656945290ee279cc8"
+  ]
+}

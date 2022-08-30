@@ -1,0 +1,377 @@
+{
+  "sections": {
+    "1656012991632dea44": {
+      "type": "advanced-content",
+      "blocks": {
+        "1656012991cc8ccdc0-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/15--Anniversary--Lifestyle--1600x600-v2.jpg",
+            "link": "shopify:\/\/collections\/15th-anniversary-sale",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1656012991cc8ccdc0-0"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "fading-images": {
+      "type": "fading-images",
+      "disabled": true,
+      "blocks": {
+        "1498501481980-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ZLINE--vendor--RANGE--1080x1080_900x_jpg.webp",
+            "focal_point": "center center",
+            "slide_title1": "",
+            "slide_title2": "Ranges"
+          }
+        },
+        "1498501481980-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ZLINE--vendor--COOKTOPS--1080x1080_72160510-c31d-42fb-887d-445c8a655e18_900x_jpg.webp",
+            "focal_point": "center center",
+            "slide_title1": "",
+            "slide_title2": "Cooktops"
+          }
+        },
+        "1498501481980-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ZLINE--vendor--WALL--OVENS--2--1080x1080_a7a0486c-0e31-4bd4-97db-d8db354869e0_900x_jpg.webp",
+            "focal_point": "center center",
+            "slide_title1": "",
+            "slide_title2": "Wall Ovens"
+          }
+        },
+        "321c77c6-31fd-4daf-a536-25db0b8fc7bd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ZLINE--vendor--REFRIGERATION--1080x1080_900x_jpg.webp",
+            "focal_point": "center center",
+            "slide_title1": "",
+            "slide_title2": "Refrigeration"
+          }
+        }
+      },
+      "block_order": [
+        "1498501481980-0",
+        "1498501481980-1",
+        "1498501481980-2",
+        "321c77c6-31fd-4daf-a536-25db0b8fc7bd"
+      ],
+      "settings": {
+        "title_lines": "2",
+        "title_font": "body",
+        "title_size": 45,
+        "title_color": "#ffffff",
+        "title_bg_color": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "link": "",
+        "slide_speed": 5,
+        "color_overlay": "#000000",
+        "color_overlay_opacity": 30,
+        "desktop_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "featured-collection-switcher": {
+      "type": "featured-collection-switcher",
+      "settings": {
+        "title": "Best Sellers",
+        "collection1": "autograph-edition",
+        "collection2": "microwaves",
+        "per_row": 4,
+        "view_all": true,
+        "divider": true
+      }
+    },
+    "166032414234750446": {
+      "type": "advanced-content",
+      "blocks": {
+        "1660324142b64f319d-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Brown_Cute_Aesthetic_How_to_Cooking_Food_Tutorial_Youtube_Thumbnail_2.png",
+            "link": "shopify:\/\/pages\/custom-kitchen-packages",
+            "width": "100%",
+            "alignment": "center"
+          }
+        },
+        "1660324142b64f319d-1": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1660324142b64f319d-0",
+        "1660324142b64f319d-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "rich-text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><strong>Explore our expansive product line<\/strong><\/p><p>Every exceptional design starts here. Browse all ZLINE collections and select the perfect suite for your home.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "divider": true
+      }
+    },
+    "featured-collections": {
+      "type": "featured-collections",
+      "blocks": {
+        "1499789718857-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "ranges-cooktops",
+            "focal_point": "center center",
+            "size": "wide"
+          }
+        },
+        "1499789718857-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "apron-mount",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "1499789718857-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "bath-faucets",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "1499789718857-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "designer-copper-range-hoods",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "1499789718857-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "kitchen-faucets",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "1499789718857-5": {
+          "type": "collection",
+          "settings": {
+            "collection": "panel-included-dishwasher",
+            "focal_point": "top center",
+            "size": "wide"
+          }
+        }
+      },
+      "block_order": [
+        "1499789718857-0",
+        "1499789718857-1",
+        "1499789718857-2",
+        "1499789718857-3",
+        "1499789718857-4",
+        "1499789718857-5"
+      ],
+      "settings": {
+        "title": "",
+        "divider": false,
+        "enable_gutter": false
+      }
+    },
+    "collection-callout": {
+      "type": "collection-callout",
+      "settings": {
+        "collection": "stainless-steel-sinks",
+        "subtitle": "Brand new",
+        "title": "Stainless Steel Sinks",
+        "text": "",
+        "cta_text1": "Shop Stainless Steel Sinks",
+        "cta_link1": "shopify:\/\/collections\/stainless-steel-sinks",
+        "cta_text2": "Shop All Kitchen Sinks",
+        "cta_link2": "shopify:\/\/collections\/kitchen-sinks",
+        "layout": "right",
+        "divider": true
+      }
+    },
+    "hero-video": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 52,
+        "subheading": "",
+        "link_text": "SHOP NOW",
+        "link": "shopify:\/\/collections\/15th-anniversary-sale",
+        "text_align": "vertical-bottom horizontal-center",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/5fae5a1452f64f17b16d2928350044e6.mp4",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "background-image-text": {
+      "type": "background-image-text",
+      "disabled": true,
+      "settings": {
+        "subtitle": "",
+        "title": "",
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/Colorful_Simple_4_Paragraph_Mind_Map_Brainstorms.png",
+        "focal_point": "center",
+        "layout": "left",
+        "height": 450,
+        "parallax": false
+      }
+    },
+    "166032402236ed6f79": {
+      "type": "testimonials",
+      "disabled": true,
+      "blocks": {
+        "1660324022b6accb7a-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Top notch customer service! Quick to reply and very knowledgable!<\/p>",
+            "author": "Eric P.",
+            "author_info": "Tampa, FL"
+          }
+        },
+        "1660324022b6accb7a-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Love our new ZLINE gas range, everything we were looking for!<\/p>",
+            "author": "Amanda M.",
+            "author_info": "Wilmington, NC"
+          }
+        },
+        "1660324022b6accb7a-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>So happy I purchased my new dishwasher from Northe K&B, answered all of my questions quickly and it fits perfectly with my new kitchen!<\/p>",
+            "author": "Maggie R.",
+            "author_info": "Fort Collins, CO"
+          }
+        },
+        "1660324022b6accb7a-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>This is my second ZLINE range, we were so impressed with the first one that we decided to install another one in our new home. <\/p>",
+            "author": "Brian H.",
+            "author_info": "Nashville, TN"
+          }
+        },
+        "1660324022b6accb7a-4": {
+          "type": "testimonial",
+          "disabled": true,
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author name",
+            "author_info": "Los Angeles, CA"
+          }
+        }
+      },
+      "block_order": [
+        "1660324022b6accb7a-0",
+        "1660324022b6accb7a-1",
+        "1660324022b6accb7a-2",
+        "1660324022b6accb7a-3",
+        "1660324022b6accb7a-4"
+      ],
+      "settings": {
+        "title": "Don't take our word for it",
+        "round_images": true,
+        "color_background": "#f9f9f9",
+        "color_text": "#1c1d1d"
+      }
+    },
+    "166032117005d60177": {
+      "type": "advanced-content",
+      "blocks": {
+        "16603211704acdb94a-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/custom_resized_f1d97532-607e-415f-adf9-7fdcef65f2cb.png",
+            "link": "",
+            "width": "100%",
+            "alignment": "top-middle"
+          }
+        },
+        "16603211704acdb94a-1": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16603211704acdb94a-0",
+        "16603211704acdb94a-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false
+      }
+    }
+  },
+  "order": [
+    "1656012991632dea44",
+    "fading-images",
+    "featured-collection-switcher",
+    "166032414234750446",
+    "rich-text",
+    "featured-collections",
+    "collection-callout",
+    "hero-video",
+    "background-image-text",
+    "166032402236ed6f79",
+    "166032117005d60177"
+  ]
+}

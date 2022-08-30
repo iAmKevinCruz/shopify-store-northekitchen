@@ -1,0 +1,129 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1648488486e9bce99a": {
+      "type": "featured-collections",
+      "blocks": {
+        "1648488486e790d2d5-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "undermount-sinks",
+            "focal_point": "center center",
+            "size": "wide"
+          }
+        },
+        "1648488486e790d2d5-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "reversible-sinks",
+            "focal_point": "center center",
+            "size": "wide"
+          }
+        },
+        "1648488486e790d2d5-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "apron-mount",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "1648488486e790d2d5-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "dual-mount-sinks",
+            "focal_point": "center center",
+            "size": "wide"
+          }
+        },
+        "1648488486e790d2d5-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "bar-prep-sinks",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        }
+      },
+      "block_order": [
+        "1648488486e790d2d5-0",
+        "1648488486e790d2d5-3",
+        "1648488486e790d2d5-1",
+        "1648488486e790d2d5-2",
+        "1648488486e790d2d5-4"
+      ],
+      "settings": {
+        "title": "Shop by Mount",
+        "divider": true,
+        "enable_gutter": true
+      }
+    },
+    "16484890802c0fe98c": {
+      "type": "featured-collections",
+      "blocks": {
+        "1648489080267f14ef-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "white-gloss-fireclay",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "1648489080267f14ef-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "charcoal-fireclay-sinks",
+            "focal_point": "center center",
+            "size": "wide"
+          }
+        },
+        "1648489080267f14ef-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "stainless-steel-sinks",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "1648489080267f14ef-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "white-matte-fireclay",
+            "focal_point": "center center",
+            "size": "wide"
+          }
+        },
+        "1648489080267f14ef-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "durasnow",
+            "focal_point": "center center",
+            "size": "wide"
+          }
+        }
+      },
+      "block_order": [
+        "1648489080267f14ef-2",
+        "1648489080267f14ef-0",
+        "1648489080267f14ef-3",
+        "1648489080267f14ef-1",
+        "1648489080267f14ef-4"
+      ],
+      "settings": {
+        "title": "Shop by Color or Finish",
+        "divider": false,
+        "enable_gutter": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1648488486e9bce99a",
+    "16484890802c0fe98c"
+  ]
+}
