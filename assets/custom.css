@@ -1,0 +1,10 @@
+.grid-product__content .tooltip{
+    background-color: grey;
+    color: white;
+    padding: 10px;
+    position: absolute;
+}
+
+.grid-product__content .tooltip-inner{
+    /* position: absolute; */
+}
