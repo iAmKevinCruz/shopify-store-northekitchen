@@ -190,7 +190,7 @@
                       href= "{{ variant.url | within: collection }}" data-toggle="tooltip"  title= "{{ product.color_image }} {{ value }}"
                       class="color-swatch color-swatch--small"
                       aria-label="{{ product.title }} - {{ value }}"
-                      style="background-color: {{ color_swatch_fallback }}; {%- if images [color_file_name] != blank -%}  background-image: {% if variant.image != blank %}url({{ variant_image }}) {% else %} url({{ color_image }}) {% endif %} ; {%- endif -%}">
+                      style="background-color: {{ color_swatch_fallback }};   background-image: {% if variant.image != blank %}url({{ variant_image }}) {% else %} {%- if images [color_file_name] != blank -%} url({{ color_image }}) {%- endif -%} {% endif %} ; ">
                     </a>
                   </span>
                 {%-endunless-%}
