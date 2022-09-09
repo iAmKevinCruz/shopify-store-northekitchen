@@ -80,7 +80,7 @@
                 alt="{{ preview_image.alt | escape }}">
           </div>
         {%- else -%}
-          <div id="{{ product.id }}" class="hahaha image-wrap"
+          <div class="hahaha image-wrap"
             style="height: 0; padding-bottom: {{ 100 | divided_by: preview_image.aspect_ratio }}%;"
             >
             {%- assign img_url = preview_image | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
@@ -184,7 +184,7 @@
                   assign color_swatch_fallback = value | split: ' ' | last | handle
                   assign color_count = color_count | plus: 1
                 -%}
-                  <span id="swatch-{{ variant.id }}" class="swatch-container">
+                  <span class="swatch-container">
                     <span class="tt_text">{{ value }}</span>
                     <a
                       href= "{{ variant.url | within: collection }}" data-toggle="tooltip"  title= "{{ product.color_image }} {{ value }}"
@@ -193,27 +193,6 @@
                       style="background-color: {{ color_swatch_fallback }}; {%- if images [color_file_name] != blank -%}  background-image: {% if variant.image != blank %}url({{ variant_image }}) {% else %} url({{ color_image }}) {% endif %} ; {%- endif -%}">
                     </a>
                   </span>
-
-                  {%- assign var_img_url = variant.image | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
-
-                  
-                  <script>
-                    var swatch_{{variant.id}} = document.getElementById('swatch-{{ variant.id }}');
-                    var imageDiv = document.getElementById('{{ product.id }}');
-                    // console.log({{variant.id}});
-                    swatch_{{variant.id}}.addEventListener('mouseover', function(){
-                      console.log('HOVERED: {{ value }}')
-                      console.log('Product: {{ product.id }}')
-                      console.log(document.getElementById('{{ product.id }}'));
-                      document.getElementById('{{ product.id }}').innerHTML = '<img class="grid-product__image lazyload" data-src="{{ var_img_url }}" data-widths="[180, 360, 540, 720, 900, 1080]" data-aspectratio="{{ variant.image.aspect_ratio }}" data-sizes="auto" alt="{{ variant.image.alt | escape }}">';
-                    })
-                  </script>
-                <!-- <a
-                  href= "{{ variant.url | within: collection }}" data-toggle="tooltip"  title= "{{ product.color_image }} {{ value }}"
-                  class="color-swatch color-swatch--small"
-                  aria-label="{{ product.title }} - {{ value }}"
-                  style="background-color: {{ color_swatch_fallback }}; {%- if images [color_file_name] != blank -%}  background-image: url({{ color_image }}); {%- endif -%}">
-                </a> -->
                 {%-endunless-%}
             {%-endfor-%}
               
